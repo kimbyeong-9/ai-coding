@@ -1,5 +1,5 @@
-import { DailyPlannerPage } from '../components/DailyPlanner';
+import { CircularPlannerPage } from '../components/CircularPlanner';
 
 export default function Home() {
-  return <DailyPlannerPage />;
+  return <CircularPlannerPage />;
 }
